@@ -18,7 +18,11 @@ namespace Rick_and_morthy_character_episode_check.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult CharacterInfo()
+        {
+            return View();
+        }
+        public IActionResult CharacterEpisodeCheck()
         {
             return View();
         }
