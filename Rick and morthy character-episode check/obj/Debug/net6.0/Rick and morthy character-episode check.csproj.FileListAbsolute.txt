@@ -1,0 +1,31 @@
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\bin\Debug\net6.0\appsettings.json
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\bin\Debug\net6.0\Rick and morthy character-episode check.staticwebassets.runtime.json
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\bin\Debug\net6.0\Rick and morthy character-episode check.exe
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\bin\Debug\net6.0\Rick and morthy character-episode check.deps.json
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\bin\Debug\net6.0\Rick and morthy character-episode check.runtimeconfig.json
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\bin\Debug\net6.0\Rick and morthy character-episode check.dll
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\bin\Debug\net6.0\Rick and morthy character-episode check.pdb
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\Rick and morthy character-episode check.csproj.AssemblyReference.cache
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\Rick and morthy character-episode check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\Rick and morthy character-episode check.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\Rick and morthy character-episode check.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\Rick and morthy character-episode check.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\Rick and morthy character-episode check.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\Rick and morthy character-episode check.RazorAssemblyInfo.cache
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\Rick and morthy character-episode check.RazorAssemblyInfo.cs
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\staticwebassets\msbuild.Rick and morthy character-episode check.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\staticwebassets\msbuild.build.Rick and morthy character-episode check.props
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rick and morthy character-episode check.props
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rick and morthy character-episode check.props
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\scopedcss\bundle\Rick and morthy character-episode check.styles.css
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\scopedcss\projectbundle\Rick and morthy character-episode check.bundle.scp.css
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\Rick and morthy character-episode check.dll
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\refint\Rick and morthy character-episode check.dll
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\Rick and morthy character-episode check.pdb
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\Rick and morthy character-episode check.genruntimeconfig.cache
+C:\Users\Dmitry\source\repos\Rick and morthy character-episode check\Rick and morthy character-episode check\obj\Debug\net6.0\ref\Rick and morthy character-episode check.dll

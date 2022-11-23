@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUYIOLgivxJ2GY6oMwIxk38K/UdZHUAJR/yN/8nhV69GyXNZuV4FgwkJSDwxj49qN06/lpQDAVvLU2O61L4Zeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dmitry\\source\\repos\\Rick and morthy character-episode check\\Rick and morthy character-episode check\\Rick and morthy character-episode check.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitry\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

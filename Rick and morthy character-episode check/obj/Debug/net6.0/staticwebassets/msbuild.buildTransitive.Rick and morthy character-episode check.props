@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Rick and morthy character-episode check.props" />
+</Project>
