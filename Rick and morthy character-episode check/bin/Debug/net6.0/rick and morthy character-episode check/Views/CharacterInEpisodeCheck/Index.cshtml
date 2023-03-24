@@ -1,0 +1,27 @@
+﻿@model CharacterInEpisodeCheck
+@{
+    ViewData["Title"] = "Перевірка наявності персонажа в серії";
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>Використовуйте цю сторінку, щоб перевірити наявність конкретного персонажа в серії.</p> 
+
+<form method="post" asp-controller="CharacterInEpisodeCheck" asp-action="Check">
+    <p>
+        <label asp-for="character_name"></label>
+    <p>
+        <input asp-for="character_name" />
+    </p>
+        <span asp-validation-for="character_name"></span>   
+    </p>
+    <p>
+        <label asp-for="episode_name"></label>
+    <p>
+        <input asp-for="episode_name" />
+    </p>      
+        <span asp-validation-for="episode_name"></span> 
+    </p>
+    <p>
+        <input type="submit" value="Перевірити" />       
+    </p>
+</form>
